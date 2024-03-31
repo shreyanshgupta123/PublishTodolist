@@ -1,0 +1,7 @@
+{
+  "routes": [
+    "/dashboard",
+    "/Help_support",
+    "/settings"
+  ]
+}
